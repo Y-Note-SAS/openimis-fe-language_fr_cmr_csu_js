@@ -4907,5 +4907,18 @@
     "claim.cancel": "Annuler la prestation",
     "tools.ExtractsPage.password.label": "Mot de passe",
     "tools.ExtractsPage.ResultDialog.downloadBtn": "Télécharger",
-    "tools.ExtractsPage.ClaimsUploadBlock.ResultDialog.error": "Echec de téléchargement"
+    "tools.ExtractsPage.ClaimsUploadBlock.ResultDialog.error": "Echec de téléchargement",
+    "claimHistory.restoreId": "",
+    "insuree.Insuree.identity": "",
+    "insuree.Insuree.household": "",
+    "insuree.Insuree.additionnalInfos": "",
+    "claim.Claim.title.insuree": "",
+    "claim.Claim.title.visitDetails": "",
+    "claim.Claim.title.claimInfos": "",
+    "claim.Claim.title.diagnosis": "",
+    "claim.Claim.title.amount": "",
+    "claim.Claim.title.status": "",
+    "policy.PolicyStage.F": "Expiration forcée",
+    "medical_pricelist.detailsFilter.name": "Filtrer par nom",
+    "medical_pricelist.detailsFilter.code": "Filtrer par code"
 }
