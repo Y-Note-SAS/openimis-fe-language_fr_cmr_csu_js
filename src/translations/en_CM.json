@@ -3243,5 +3243,12 @@
     "workerVoucher.searcher.title": "",
     "workerVoucher.searcher.price": "",
     "workerVoucher.filter.date": "",
-    "business_config.validation.date_range_overlap": ""
+    "business_config.validation.date_range_overlap": "",
+    "medical_pricelist.detailsFilter.name.label": "Filter by name",
+    "medical_pricelist.detailsFilter.code.label": "Filter by code",
+    "medical_pricelist.detailsFilter.name.placeholder": "Enter the product/service name",
+    "medical_pricelist.detailsFilter.code.placeholder": "Enter the product/service code",
+    "medical_controller.mainMenu": "Medical Controller",
+    "medical_controller.menu.missions": "Missions",
+    "medical_controller.missions.page.title": "Medical Controller Missions"
 }
