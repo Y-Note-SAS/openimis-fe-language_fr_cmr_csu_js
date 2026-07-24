@@ -4920,5 +4920,8 @@
     "claim.Claim.title.status": "",
     "policy.PolicyStage.F": "Expiration forcée",
     "medical_pricelist.detailsFilter.name": "Filtrer par nom",
-    "medical_pricelist.detailsFilter.code": "Filtrer par code"
+    "medical_pricelist.detailsFilter.code": "Filtrer par code",
+    "medical_controller.mainMenu": "Controlleur Médical",
+    "medical_controller.menu.missions": "Missions",
+    "medical_controller.missions.page.title": "Missions du Controlleur Médical"
 }
