@@ -4919,8 +4919,10 @@
     "claim.Claim.title.amount": "",
     "claim.Claim.title.status": "",
     "policy.PolicyStage.F": "Expiration forcée",
-    "medical_pricelist.detailsFilter.name": "Filtrer par nom",
-    "medical_pricelist.detailsFilter.code": "Filtrer par code",
+    "medical_pricelist.detailsFilter.name.label": "Filtrer par nom",
+    "medical_pricelist.detailsFilter.code.label": "Filtrer par code",
+    "medical_pricelist.detailsFilter.name.placeholder": "Entrez le nom du produit/service",
+    "medical_pricelist.detailsFilter.code.placeholder": "Entrez le code du produit/service",
     "medical_controller.mainMenu": "Controlleur Médical",
     "medical_controller.menu.missions": "Missions",
     "medical_controller.missions.page.title": "Missions du Controlleur Médical"
