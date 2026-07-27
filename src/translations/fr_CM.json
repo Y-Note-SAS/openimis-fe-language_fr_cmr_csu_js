@@ -4923,7 +4923,20 @@
     "medical_pricelist.detailsFilter.code.label": "Filtrer par code",
     "medical_pricelist.detailsFilter.name.placeholder": "Entrez le nom du produit/service",
     "medical_pricelist.detailsFilter.code.placeholder": "Entrez le code du produit/service",
-    "medical_controller.mainMenu": "Controlleur Médical",
+    "medical_controller.mainMenu": "Contrôleur Médical",
     "medical_controller.menu.missions": "Missions",
-    "medical_controller.missions.page.title": "Missions du Controlleur Médical"
+    "medical_controller.MedicalControllerPicker.label": "Contrôleur Médical",
+    "medical_controller.MedicalControllerPicker.placeholder": "Rechercher un contrôleur médical",
+    "medical_controller.missions.page.title": "Toutes les missions de contrôle",
+    "medical_controller.missions.table.title": "{count} Missions trouvées",
+    "medical_controller.missions.code": "Code mission",
+    "medical_controller.missions.region": "Région",
+    "medical_controller.missions.district": "District",
+    "medical_controller.missions.medicalController": "Contrôleur Médical",
+    "medical_controller.missions.startDate": "Date de début",
+    "medical_controller.missions.endDate": "Date de fin",
+    "medical_controller.missions.status": "Statut",
+    "medical_controller.missions.status.null": "Tous",
+    "medical_controller.missions.status.open": "Ouverte",
+    "medical_controller.missions.status.closed": "Fermée"
 }
