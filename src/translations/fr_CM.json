@@ -4938,5 +4938,16 @@
     "medical_controller.missions.status": "Statut",
     "medical_controller.missions.status.null": "Tous",
     "medical_controller.missions.status.open": "Ouverte",
-    "medical_controller.missions.status.closed": "Fermée"
+    "medical_controller.missions.status.closed": "Fermée",
+    "medical_controller.createMission.title": "Créer une mission",
+    "medical_controller.createMission.code": "Code de mission",
+    "medical_controller.createMission.startDate": "Date de début",
+    "medical_controller.createMission.endDate": "Date de fin",
+    "medical_controller.createMission.cancel": "Annuler",
+    "medical_controller.createMission.submit": "Créer",
+    "medical_controller.createMission.error.regionRequired": "La région est requise",
+    "medical_controller.createMission.error.healthFacilitiesRequired": "Les établissements de santé sont requis",
+    "medical_controller.createMission.error.startDateRequired": "La date de début est requise",
+    "medical_controller.createMission.error.endDateRequired": "La date de fin est requise",
+    "medical_controller.createMission.error.endBeforeStart": "La date de fin doit être après la date de début"
 }
