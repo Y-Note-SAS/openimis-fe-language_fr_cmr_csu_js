@@ -3276,7 +3276,7 @@
     "medical_controller.createMission.error.startDateRequired": "Start date is required",
     "medical_controller.createMission.error.endDateRequired": "End date is required",
     "medical_controller.createMission.error.endBeforeStart": "End date must be after start date",
-    "medical_controller.missions.details.title": "Mission details",
+    "medical_controller.missions.details.title": "Mission {missionCode}",
     "medical_controller.missions.details.missionHeader": "Mission information",
     "medical_controller.missions.details.code": "Mission code",
     "medical_controller.missions.details.status": "Status",
