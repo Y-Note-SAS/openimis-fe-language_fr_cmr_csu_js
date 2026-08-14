@@ -4951,7 +4951,7 @@
     "medical_controller.createMission.error.startDateRequired": "La date de début est requise",
     "medical_controller.createMission.error.endDateRequired": "La date de fin est requise",
     "medical_controller.createMission.error.endBeforeStart": "La date de fin doit être après la date de début",
-    "medical_controller.missions.details.title": "Détails de la mission",
+    "medical_controller.missions.details.title": "Mission {missionCode}",
     "medical_controller.missions.details.missionHeader": "Informations sur la mission",
     "medical_controller.missions.details.code": "Code de mission",
     "medical_controller.missions.details.status": "Statut",
@@ -4968,5 +4968,10 @@
     "medical_controller.missions.details.back": "Retour",
     "medical_controller.missions.details.notFound": "Mission non trouvée.",
     "medical_controller.MissionFormMainPanel.startDate": "Date de début",
-    "medical_controller.MissionFormMainPanel.endDate": "Date de fin"
+    "medical_controller.MissionFormMainPanel.endDate": "Date de fin",
+    "medical_controller.MissionSamplePanel.category1": "Catégorie 1",
+    "medical_controller.MissionSamplePanel.category2": "Catégorie 2",
+    "medical_controller.MissionSamplePanel.category3": "Catégorie 3",
+    "medical_controller.MissionSamplePanel.category4": "Catégorie 4",
+    "medical_controller.MissionSamplePanel.title": "Échantillon"
 }
