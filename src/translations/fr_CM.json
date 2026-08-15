@@ -4973,5 +4973,19 @@
     "medical_controller.MissionSamplePanel.category2": "Catégorie 2",
     "medical_controller.MissionSamplePanel.category3": "Catégorie 3",
     "medical_controller.MissionSamplePanel.category4": "Catégorie 4",
-    "medical_controller.MissionSamplePanel.title": "Échantillon"
+    "medical_controller.MissionSamplePanel.title": "Échantillon",
+    "medical_controller.MissionSamplePanel.btnStart": "Obtenir un échantillon",
+    "medical_controller.MissionFilterPanel.title": "Filtre d'échantillon",
+    "medical_controller.MissionFilterPanel.category": "Categorie",
+    "claim.claimSummaries.audited": "Auditée",
+    "claim.claimSummaries.category": "Catégorie",
+    "medical_controller.MissionHistory.title": "Historique de mission",
+    "medical_controller.MissionHistory.date": "Date",
+    "medical_controller.MissionHistory.controller": "Utilisateur",
+    "medical_controller.MissionHistory.action": "Action",
+    "medical_controller.MissionHistory.time": "Heure",
+    "medical_controller.missionForm.download": "Télécharger",
+    "medical_controller.missionForm.close": "Clôturer",
+    "medical_controller.MissionSamplePanel.addSample": "Ajouter un échantillon",
+    "medical_controller.MissionSamplePanel.getSample": "Obtenir un échantillon"
 }

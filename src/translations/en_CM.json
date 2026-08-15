@@ -3293,5 +3293,19 @@
     "medical_controller.missions.details.back": "Back",
     "medical_controller.missions.details.notFound": "Mission not found.",
     "medical_controller.MissionFormMainPanel.startDate": "Start Date",
-    "medical_controller.MissionFormMainPanel.endDate": "End Date"
+    "medical_controller.MissionFormMainPanel.endDate": "End Date",
+    "medical_controller.MissionSamplePanel.btnStart": "Get Sample",
+    "medical_controller.MissionFilterPanel.title": "Sample Filter",
+    "medical_controller.MissionFilterPanel.category": "Category",
+    "claim.claimSummaries.audited": "Audited",
+    "claim.claimSummaries.category": "Catégory",
+    "medical_controller.MissionHistory.title": "History of mission",
+    "medical_controller.MissionHistory.date": "Date",
+    "medical_controller.MissionHistory.controller": "Utilisateur",
+    "medical_controller.MissionHistory.action": "Action",
+    "medical_controller.MissionHistory.time": "Heure",
+    "medical_controller.missionForm.download": "Download",
+    "medical_controller.missionForm.close": "Close",
+    "medical_controller.MissionSamplePanel.addSample": "Add sample",
+    "medical_controller.MissionSamplePanel.getSample": "Get sample"
 }
