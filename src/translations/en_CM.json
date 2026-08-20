@@ -3306,6 +3306,9 @@
     "medical_controller.MissionHistory.time": "Heure",
     "medical_controller.missionForm.download": "Download",
     "medical_controller.missionForm.close": "Close",
+    "medical_controller.missionForm.confirmClose.title": "Confirm Close",
+    "medical_controller.missionForm.confirmClose.message": "Do you really want to close the mission?",
     "medical_controller.MissionSamplePanel.addSample": "Add sample",
-    "medical_controller.MissionSamplePanel.getSample": "Get sample"
+    "medical_controller.MissionSamplePanel.getSample": "Get sample",
+    "medical_controller.closeMission.mutationLabel": "Close mission {code}"
 }
