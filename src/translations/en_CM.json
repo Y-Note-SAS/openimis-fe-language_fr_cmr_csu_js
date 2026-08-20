@@ -3309,9 +3309,9 @@
     "medical_controller.MissionSamplePanel.addSample": "Add sample",
     "medical_controller.MissionSamplePanel.getSample": "Get sample",
     "medical_controller.closeMission.mutationLabel": "Close mission {code}",
-    "medical_controller.MissionSamplePanel.category1": "Catégorie 1",
-    "medical_controller.MissionSamplePanel.category2": "Catégorie 2",
-    "medical_controller.MissionSamplePanel.category3": "Catégorie 3",
-    "medical_controller.MissionSamplePanel.category4": "Catégorie 4",
-    "medical_controller.MissionSamplePanel.title": "Échantillon"
+    "medical_controller.MissionSamplePanel.category1": "Catégory 1",
+    "medical_controller.MissionSamplePanel.category2": "Catégory 2",
+    "medical_controller.MissionSamplePanel.category3": "Catégory 3",
+    "medical_controller.MissionSamplePanel.category4": "Catégory 4",
+    "medical_controller.MissionSamplePanel.title": "Echantillon"
 }
