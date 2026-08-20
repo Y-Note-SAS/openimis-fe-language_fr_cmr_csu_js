@@ -3297,8 +3297,6 @@
     "medical_controller.MissionSamplePanel.btnStart": "Get Sample",
     "medical_controller.MissionFilterPanel.title": "Sample Filter",
     "medical_controller.MissionFilterPanel.category": "Category",
-    "claim.claimSummaries.audited": "Audited",
-    "claim.claimSummaries.category": "Catégory",
     "medical_controller.MissionHistory.title": "History of mission",
     "medical_controller.MissionHistory.date": "Date",
     "medical_controller.MissionHistory.controller": "Utilisateur",
@@ -3310,5 +3308,10 @@
     "medical_controller.missionForm.confirmClose.message": "Do you really want to close the mission?",
     "medical_controller.MissionSamplePanel.addSample": "Add sample",
     "medical_controller.MissionSamplePanel.getSample": "Get sample",
-    "medical_controller.closeMission.mutationLabel": "Close mission {code}"
+    "medical_controller.closeMission.mutationLabel": "Close mission {code}",
+    "medical_controller.MissionSamplePanel.category1": "Catégorie 1",
+    "medical_controller.MissionSamplePanel.category2": "Catégorie 2",
+    "medical_controller.MissionSamplePanel.category3": "Catégorie 3",
+    "medical_controller.MissionSamplePanel.category4": "Catégorie 4",
+    "medical_controller.MissionSamplePanel.title": "Échantillon"
 }
