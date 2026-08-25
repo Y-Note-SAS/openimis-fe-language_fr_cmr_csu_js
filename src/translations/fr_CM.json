@@ -4986,5 +4986,6 @@
     "claim.claimSummaries.audited": "Auditée",
     "claim.claimSummaries.category": "Catégorie",
     "medical_controller.mainMenu": "Medical Controller",
-    "medical_controller.claimSample.total": "Total: {totalCategory}"
+    "medical_controller.claimSample.total": "Total: {totalCategory}",
+    "medical_controller.MissionFilterPanel.category.null": "Toutes les catégories"
 }
