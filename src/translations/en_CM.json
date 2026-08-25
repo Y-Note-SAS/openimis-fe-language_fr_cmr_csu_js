@@ -3314,5 +3314,9 @@
     "claim.claimSummaries.category": "Category",
     "claim.claimSummaries.audited": "Audited",
     "medical_controller.claimSample.total": "Total: {totalCategory}",
-    "medical_controller.MissionFilterPanel.category.null": "All categories"
+    "medical_controller.MissionFilterPanel.category.null": "All categories",
+    "medical_controller.MissionFilterPanel.category.1": "Category 1",
+    "medical_controller.MissionFilterPanel.category.2": "Category 2",
+    "medical_controller.MissionFilterPanel.category.3": "Category 3",
+    "medical_controller.MissionFilterPanel.category.4": "Category 4"
 }
