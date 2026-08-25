@@ -4987,5 +4987,9 @@
     "claim.claimSummaries.category": "Catégorie",
     "medical_controller.mainMenu": "Medical Controller",
     "medical_controller.claimSample.total": "Total: {totalCategory}",
-    "medical_controller.MissionFilterPanel.category.null": "Toutes les catégories"
+    "medical_controller.MissionFilterPanel.category.null": "Toutes les catégories",
+    "medical_controller.MissionFilterPanel.category.1": "Catégorie 1",
+    "medical_controller.MissionFilterPanel.category.2": "Catégorie 2",
+    "medical_controller.MissionFilterPanel.category.3": "Catégorie 3",
+    "medical_controller.MissionFilterPanel.category.4": "Catégorie 4"
 }
