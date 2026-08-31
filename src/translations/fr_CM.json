@@ -5013,5 +5013,8 @@
     "claim.Audit.validateAudit.fab.tooltip": "Valider l'audit",
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "claim.claimStatus.64": "Audité",
-    "medical_controller.createMission.missionExist": "Une mission existe déjà pour ce district à cette période"
+    "medical_controller.createMission.missionExist": "Une mission existe déjà pour ce district à cette période",
+    "medical_controller.createMission.availabilityError": "Impossible de vérifier la disponibilité de la mission. Veuillez réessayer.",
+    "auditReport.dateFrom": "Date de début",
+    "auditReport.dateTo": "Date jusqu'au"
 }
