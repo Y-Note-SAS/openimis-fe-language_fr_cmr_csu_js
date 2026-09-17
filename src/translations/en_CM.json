@@ -4990,5 +4990,6 @@
     "medical_controller.missionForm.download": "",
     "medical_controller.missionForm.close": "",
     "medical_controller.MissionSamplePanel.addSample": "",
-    "medical_controller.MissionSamplePanel.getSample": ""
+    "medical_controller.MissionSamplePanel.getSample": "",
+    "claim.ClaimChildPanel.negativeAmount": "Le montant doit être supérieur à 0"
 }

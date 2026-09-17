@@ -5037,5 +5037,6 @@
     "medical_controller.missions.endDate": "Date de fin",
     "medical_controller.missions.status": "Statut",
     "medical_controller.missions.status.null": "Tous",
-    "medical_controller.mainMenu": "Contrôleur médical"
+    "medical_controller.mainMenu": "Contrôleur médical",
+    "claim.ClaimChildPanel.negativeAmount": "Le montant doit être supérieur à 0"
 }
