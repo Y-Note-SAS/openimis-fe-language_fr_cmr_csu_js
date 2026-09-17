@@ -4950,7 +4950,7 @@
     "core.confirmSelect": "",
     "claim.rejectionReason.-2": "Rejected by a District Verifier",
     "programPicker.placeholder": "Select a program",
-    "claim.claimStatus.32 ": "Restored",
+    "claim.claimStatus.32": "Restored",
     "medical_controller.MissionFormMainPanel.endDate": "End date",
     "medical_controller.MissionSamplePanel.category1": "Category 1",
     "medical_controller.MissionSamplePanel.category2": "Category 2",

@@ -4948,7 +4948,7 @@
     "core.confirmSelect": "Confirmer",
     "claim.rejectionReason.-2": "Rejeté par un gestionnaire de district",
     "programPicker.placeholder": "Sélectionner un programme",
-    "claim.claimStatus.32 ": "Restauré",
+    "claim.claimStatus.32": "Restauré",
     "medical_controller.MissionFormMainPanel.endDate": "Date de fin",
     "medical_controller.MissionSample.category.null": "Toutes les catégories",
     "medical_controller.MissionSample.category1": "Catégorie 1",
