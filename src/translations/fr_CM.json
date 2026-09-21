@@ -463,7 +463,7 @@
     "empty": " ",
     "FatalError.title": "Erreur fatale",
     "FatalError.message": "L'action demandée ne peut pas être exécutée, veuillez vérifier votre connexion internet, ...",
-    "validation.minValue": "{value} sous les {min} autorisés",
+    "validation.minValue": "Le montant doit être supérieur à {min}",
     "validation.maxValue": "{value} au-dessus de la valeur autorisée {max}",
     "medical.visitType.none": "Aucun",
     "medical.careType.none": "Aucun",
@@ -5037,6 +5037,5 @@
     "medical_controller.missions.endDate": "Date de fin",
     "medical_controller.missions.status": "Statut",
     "medical_controller.missions.status.null": "Tous",
-    "medical_controller.mainMenu": "Contrôleur médical",
-    "claim.ClaimChildPanel.negativeAmount": "Le montant doit être supérieur à 0"
+    "medical_controller.mainMenu": "Contrôleur médical"
 }
