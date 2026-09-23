@@ -463,7 +463,7 @@
     "empty": " ",
     "FatalError.title": "Erreur fatale",
     "FatalError.message": "L'action demandée ne peut pas être exécutée, veuillez vérifier votre connexion internet, ...",
-    "validation.minValue": "{value} sous les {min} autorisés",
+    "validation.minValue": "Le montant doit être supérieur à {min}",
     "validation.maxValue": "{value} au-dessus de la valeur autorisée {max}",
     "medical.visitType.none": "Aucun",
     "medical.careType.none": "Aucun",
