@@ -5280,5 +5280,11 @@
     "claim.Audit.validateAudit.fab.tooltip": "Valider l'audit",
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
-    "showDeleted": ""
+    "showDeleted": "",
+    "MissionFilterPanel.category": "Catégorie",
+    "MissionFilterPanel.periodFrom": "Du (date de visite)",
+    "MissionFilterPanel.periodTo": "Au (date de visite)",
+    "MissionFilterPanel.month": "Mois",
+    "MissionFilterPanel.allMonths": "Tous les mois",
+    "MissionFilterPanel.dateRangeError": "La date de début doit précéder la date de fin"
 }
