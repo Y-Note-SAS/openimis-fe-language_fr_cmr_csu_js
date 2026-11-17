@@ -5280,5 +5280,6 @@
     "claim.Audit.validateAudit.fab.tooltip": "Valider l'audit",
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
-    "showDeleted": ""
+    "showDeleted": "",
+    "createMission.auditors": "Auditeurs"
 }
