@@ -5282,6 +5282,7 @@
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
     "showDeleted": "",
+    "createMission.auditors": "Auditeurs",
     "medical_controller.missions.chief": "Chef de mission",
     "medical_controller.missions.auditors": "Auditeurs"
 }
