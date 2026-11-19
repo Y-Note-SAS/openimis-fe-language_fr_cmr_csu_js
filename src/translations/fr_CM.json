@@ -5259,6 +5259,7 @@
     "medical_controller.missions.status": "Statut",
     "medical_controller.missions.status.null": "Tous",
     "medical_controller.missions.table.title": "{count} Missions trouvées",
+    "medical_controller.missions.searcher.districts.remainingTooltip": "{count} districts restants : {districts}",
     "claim.audited": "Audité",
     "claim.edit.services.qtyAudited": "Qté Audité",
     "claim.edit.items.qtyAudited": "Qté Audité",
@@ -5281,5 +5282,7 @@
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
     "showDeleted": "",
-    "createMission.auditors": "Auditeurs"
+    "createMission.auditors": "Auditeurs",
+    "medical_controller.missions.chief": "Chef de mission",
+    "medical_controller.missions.auditors": "Auditeurs"
 }
