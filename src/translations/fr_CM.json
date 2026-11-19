@@ -5259,6 +5259,7 @@
     "medical_controller.missions.status": "Statut",
     "medical_controller.missions.status.null": "Tous",
     "medical_controller.missions.table.title": "{count} Missions trouvées",
+    "medical_controller.missions.searcher.districts.remainingTooltip": "{count} districts restants : {districts}",
     "claim.audited": "Audité",
     "claim.edit.services.qtyAudited": "Qté Audité",
     "claim.edit.items.qtyAudited": "Qté Audité",
@@ -5284,5 +5285,8 @@
     "medical_controller.missions.missionDate": "Date de mission",
     "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
     "medical_controller.missions.missionDateTo": "jusqu'à",
-    "createMission.missionDate": "Date de mission"
+    "createMission.missionDate": "Date de mission",
+    "createMission.auditors": "Auditeurs",
+    "medical_controller.missions.chief": "Chef de mission",
+    "medical_controller.missions.auditors": "Auditeurs"
 }
