@@ -5281,5 +5281,7 @@
     "claim.Audit.validateAudit.fab.tooltip": "Valider l'audit",
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
-    "showDeleted": ""
+    "showDeleted": "",
+    "medical_controller.missions.chief": "Chef de mission",
+    "medical_controller.missions.auditors": "Auditeurs"
 }
