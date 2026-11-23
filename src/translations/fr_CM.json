@@ -5265,6 +5265,7 @@
     "claim.auditStatus": "Statut d'audit",
     "claim.auditStatus.A": "Adopté",
     "claim.auditStatus.R": "Rejeté",
+    "claim.auditStatus.H": "Réhabilité",
     "claim.auditRejectionMotif": "Motif de rejet",
     "claim.auditRejectionMotif.1": "Absence de traçabilité",
     "claim.auditRejectionMotif.2": "Dépassement de plafond",
