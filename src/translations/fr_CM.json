@@ -5270,6 +5270,7 @@
     "claim.auditStatus": "Statut d'audit",
     "claim.auditStatus.A": "Adopté",
     "claim.auditStatus.R": "Rejeté",
+    "claim.auditStatus.H": "Réhabilité",
     "claim.auditedStatus": "Statut d'audit",
     "claim.auditedStatus.null": "Tous",
     "claim.auditedStatus.A": "Audité",
