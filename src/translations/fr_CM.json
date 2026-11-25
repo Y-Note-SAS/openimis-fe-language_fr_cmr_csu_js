@@ -5284,5 +5284,9 @@
     "claim.Audit.validateAudit.fab.tooltip": "Valider l'audit",
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
-    "showDeleted": ""
+    "showDeleted": "",
+    "medical_controller.missions.missionDate": "Date de mission",
+    "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
+    "medical_controller.missions.missionDateTo": "jusqu'à",
+    "createMission.missionDate": "Date de mission"
 }
