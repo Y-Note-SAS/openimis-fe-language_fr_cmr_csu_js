@@ -5287,6 +5287,7 @@
     "showDeleted": "",
     "medical_controller.missions.chief": "Chef de mission",
     "medical_controller.missions.auditors": "Auditeurs",
+    "createMission.auditors": "Auditeurs",
     "medical_controller.missions.missionDate": "Date de mission",
     "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
     "medical_controller.missions.missionDateTo": "jusqu'à",
