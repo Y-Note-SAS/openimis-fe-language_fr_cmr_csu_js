@@ -5286,5 +5286,9 @@
     "invoice.action.openInNewTab.tooltip": "",
     "showDeleted": "",
     "MissionServicePicker.label": "Type de prestation",
-    "MissionServicePicker.placeholder": "Rechercher une prestation"
+    "MissionServicePicker.placeholder": "Rechercher une prestation",
+    "medical_controller.missions.missionDate": "Date de mission",
+    "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
+    "medical_controller.missions.missionDateTo": "jusqu'à",
+    "createMission.missionDate": "Date de mission"
 }
