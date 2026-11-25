@@ -5247,6 +5247,8 @@
     "medical_controller.claimSample.total": "Total: {totalCategory}",
     "medical_controller.closeMission.mutationLabel": "Close the Mission {code}",
     "medical_controller.createMission.availabilityError": "Unable to check the availability of the mission. Please try again.",
+    "medical_controller.createMission.noDistrictAvailable": "No district is available for the selected period.",
+    "medical_controller.createMission.noHealthFacilityAvailable": "No health facility is available for the selected period.",
     "medical_controller.createMission.missionExist": "A mission already exists for this district during this period",
     "medical_controller.missionForm.confirmClose.message": "Are you sure you want to end the mission?",
     "medical_controller.missionForm.confirmClose.title": "Confirm Closure",
