@@ -5290,5 +5290,10 @@
     "MissionFilterPanel.periodTo": "Au (date de visite)",
     "MissionFilterPanel.month": "Mois",
     "MissionFilterPanel.allMonths": "Tous les mois",
-    "MissionFilterPanel.dateRangeError": "La date de début doit précéder la date de fin"
+    "MissionFilterPanel.dateRangeError": "La date de début doit précéder la date de fin",
+    "createMission.auditors": "Auditeurs",
+    "medical_controller.missions.missionDate": "Date de mission",
+    "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
+    "medical_controller.missions.missionDateTo": "jusqu'à",
+    "createMission.missionDate": "Date de mission"
 }
