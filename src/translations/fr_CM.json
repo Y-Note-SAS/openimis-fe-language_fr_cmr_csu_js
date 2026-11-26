@@ -5285,6 +5285,8 @@
     "claim.AuditClaim.mutationLabel": "Audit de la prestation {code}",
     "invoice.action.openInNewTab.tooltip": "",
     "showDeleted": "",
+    "medical_controller.missions.chief": "Chef de mission",
+    "medical_controller.missions.auditors": "Auditeurs",
     "createMission.auditors": "Auditeurs",
     "medical_controller.missions.missionDate": "Date de mission",
     "medical_controller.missions.missionDateFrom": "Date de mission à partir de",
