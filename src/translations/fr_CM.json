@@ -5257,6 +5257,8 @@
     "medical_controller.claimSample.total": "Total: {totalCategory}",
     "medical_controller.closeMission.mutationLabel": "Clôturer la mission {code}",
     "medical_controller.createMission.availabilityError": "Impossible de vérifier la disponibilité de la mission. Veuillez réessayer.",
+    "medical_controller.createMission.noDistrictAvailable": "Aucun district n'est disponible pour la période sélectionnée.",
+    "medical_controller.createMission.noHealthFacilityAvailable": "Aucune formation sanitaire n'est disponible pour la période sélectionnée.",
     "medical_controller.createMission.missionExist": "Une mission existe déjà pour ce district à cette période",
     "medical_controller.missionForm.confirmClose.message": "Voulez-vous vraiment clôturer la mission?",
     "medical_controller.missionForm.confirmClose.title": "Confirmer la clôture",
